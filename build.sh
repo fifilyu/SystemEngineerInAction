@@ -1,6 +1,5 @@
 #!/bin/sh
 export PATH="/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin"
-
 dir="$( cd "$( dirname "$0"  )" && pwd  )"
 cd $dir
 
